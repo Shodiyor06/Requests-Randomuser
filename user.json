@@ -1,0 +1,12 @@
+{
+    "first name": "Aurora",
+    "last name": "Campos",
+    "gender": "female",
+    "email": "aurora.campos@example.com",
+    "phone": "946-387-484",
+    "address": {
+        "street": "Calle del Arenal",
+        "city": "Alcobendas",
+        "country": "Spain"
+    }
+}
